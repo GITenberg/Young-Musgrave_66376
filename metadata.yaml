@@ -1,0 +1,32 @@
+_repo: Young-Musgrave_66376
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oliphant, Mrs. (Margaret)
+    aliases:
+    - Wilson, Margaret
+    - Oliphant, Mrs. Margaret
+    - Olyphant, Mrs.
+    - Mrs. (Margaret) Oliphant
+    - Oliphant, Mrs.
+    - Oliphant, Margaret Oliphant Wilson
+    - Oliphant, M. O. W. (Margaret Oliphant Wilson)
+    birthdate: 1828
+    deathdate: 1897
+    gutenberg_agent_id: '963'
+    url: http://www.gutenberg.org/2009/agents/963
+    wikipedia: https://en.wikipedia.org/wiki/Margaret_Oliphant_Oliphant
+description: ''
+gutenberg_issued: '2021-09-25'
+identifiers:
+  gutenberg: '66376'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Young Musgrave
+url: http://www.gutenberg.org/ebooks/66376
