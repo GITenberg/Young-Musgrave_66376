@@ -1,5 +1,8 @@
 _repo: Young-Musgrave_66376
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66376-h/images/cover.jpg
 creator:
   author:
     agent_name: Oliphant, Mrs. (Margaret)
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/963
     wikipedia: https://en.wikipedia.org/wiki/Margaret_Oliphant_Oliphant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66376#Young-Musgrave
 gutenberg_issued: '2021-09-25'
 identifiers:
   gutenberg: '66376'
